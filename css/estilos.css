@@ -1,0 +1,130 @@
+ /* {} */
+ /* Already Connected  By OnionSolo */
+
+ .title{
+    font-size: 90px; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+ }
+
+ .subtitle{
+    margin-top: 100px;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+ }
+
+  .fuckdapolice{
+    position: absolute;
+    left: 50%;
+    transform:translateX(-50%)
+ }   
+
+ body{
+
+   background-image: url("https://livewallpaperhd.com/wp-content/uploads/2019/01/Black-and-Red-HD-Backgrounds.jpg") ;
+ }
+
+.selector{
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 50px;
+}
+
+.boton{
+
+padding-bottom: 20px;
+padding-right: 100px;
+padding-left: 100px;
+padding-top: 20px;
+/* Prov Margen */
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+background-color: #ffffff;
+color: #000000; 
+font-size: 50px;
+text-decoration: none; 
+text-transform: uppercase;
+font-family: 'Arial, Helvetica', sans-serif;
+
+}
+
+.moreinfo{
+
+   margin-top: 120px;
+   color: white;
+   font-family: 'Arial, Helvetica', sans-serif;
+
+
+}
+
+/* Close principal boxes */
+
+
+/* LDP, Code CSS */
+
+
+.title2{
+
+
+   margin-top: 10px;
+   color: white;
+   font-family: 'Arial, Helvetica', sans-serif;
+   font-size: 90px;
+
+}
+
+.subtitle2{
+
+   color: white;
+   margin-top: 50px;
+   font-family: 'Arial, Helvetica', sans-serif;
+   font-size: 50px;
+   margin-bottom: 50px;
+
+}
+
+.Index{
+   color: white;
+   font-family: 'Arial, Helvetica', sans-serif;
+   font-size: 20px;
+   margin-top: 30px;
+}
+
+
+.LinksButton{
+
+   color: yellow;
+}
+
+.normaltext{
+
+   font-size: 30px;
+   font-family: 'Arial, Helvetica', sans-serif;
+   color: white;
+}
+
+
+
+
+/* Developing CSS */
+
+.titledev{
+
+   margin-top: 300px;
+   font-size: 100px;
+   font-family: 'Arial, Helvetica', sans-serif;
+   color: white;
+}
+
+.subtitledev{
+
+   font-size: 60px;
+   font-family: 'Arial, Helvetica', sans-serif;
+   color: white;
+}
+
+/* Developing CSS Close */
